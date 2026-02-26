@@ -1,4 +1,19 @@
-# SQL Practice — Movies Database
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-8.0+-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Project-Portfolio-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Level-Beginner_to_Advanced-purple?style=for-the-badge" />
+</p>
+
+<h1 align="center">🎬 SQL Practice — Movies Database</h1>
+
+<p align="center">
+  <b>End-to-End SQL Analytics Project for Interview Preparation</b>
+</p>
+
+---
+
+
 
 A structured, hands-on SQL learning project built around a realistic movies database. Progress from basic SELECT queries to advanced window functions across five difficulty levels, with 50 practice questions and a full answer key.
 
